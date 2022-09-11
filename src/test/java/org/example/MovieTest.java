@@ -9,7 +9,7 @@ class MovieTest {
 
 
 
-    @org.testng.annotations.Test
+    @Test
     public void testLimit() {
         String movie1 = "movie1";
         String movie2 = "movie2";
